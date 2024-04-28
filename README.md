@@ -1,8 +1,8 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 27.04.2024
 
-### Name: SHYAM S
-### Register Number: 212223240156
+### Name: THANJIYAPPAN K
+### Register Number: 212222240108
 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
